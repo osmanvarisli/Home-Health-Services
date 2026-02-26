@@ -117,7 +117,7 @@ return [
     "login_button" => "Login",
     "login_heading" => "Login",
     "error_invalid" => "Invalid username or password",
-    "footer" => "Diyarbakır Çocuk Hastalıkları Hastanesi &copy;",
+    "footer" => "... Hastanesi &copy;",
 
 
 

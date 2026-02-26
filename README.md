@@ -11,7 +11,9 @@ The **Home Health Services Management System** is a comprehensive web applicatio
 - Admin welcome screen  
 - Upcoming appointment notifications  
 - Quick module access  
-- Overall system summary  
+- Overall system summary
+- 
+![Dashboard Screenshot](dashboard.png)
 
 ### 👤 Patient Module
 - View, search, and filter patients  

@@ -65,7 +65,6 @@ This project is built using Bootstrap, MySQL, HTML, CSS, and JavaScript.
 ---
 
 
-```bash
 ## 📦 Installation & Usage
 
 Follow these steps to run the project locally:
@@ -86,3 +85,7 @@ npm start
 
 # 5. Open your browser at
 # http://localhost:3000
+
+# 6. Login to the system using the default credentials:
+# Username: deneme
+# Password: 1!PassPass!1

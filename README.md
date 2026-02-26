@@ -74,8 +74,9 @@ Follow these steps to run the project locally:
 unzip Home-Health-Services.zip
 cd Home-Health-Services
 
-# 2. Configure the database
-# Open the 'config/Database.php' file and set your database connection settings (host, username, password, database name)
+# 2. Import the database
+# The database is included in the 'DB-Home-Health-Services.sql' file.
+# Import it into your MySQL server, then open 'config/Database.php' and set your database connection settings (host, username, password, database name)
 
 # 3. Install all dependencies
 npm install

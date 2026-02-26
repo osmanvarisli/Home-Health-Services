@@ -119,7 +119,7 @@ return [
     "login_button" => "Giriş Yap",
     "login_heading" => "Giriş Yap",
     "error_invalid" => "Kullanıcı adı veya şifre hatalı",
-    "footer" => "Diyarbakır Çocuk Hastalıkları Hastanesi &copy;",
+    "footer" => ".... Hastanesi &copy;",
 
     "captcha" => "Güvenlik Sorusu",
     "captcha_placeholder" => "Cevabı yazınız",

@@ -64,6 +64,8 @@ This project is built using Bootstrap, MySQL, HTML, CSS, and JavaScript.
 
 ---
 
+
+```bash
 ## 📦 Installation & Usage
 
 Follow these steps to run the project locally:
@@ -73,11 +75,14 @@ Follow these steps to run the project locally:
 unzip Home-Health-Services.zip
 cd Home-Health-Services
 
-# 2. Install all dependencies
+# 2. Configure the database
+# Open the 'config/Database.php' file and set your database connection settings (host, username, password, database name)
+
+# 3. Install all dependencies
 npm install
 
-# 3. Start the application
+# 4. Start the application
 npm start
 
-# 4. Open your browser at
+# 5. Open your browser at
 # http://localhost:3000

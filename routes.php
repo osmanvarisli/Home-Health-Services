@@ -39,6 +39,8 @@ return [
     'logout' => ['path' => 'auth/logout.php', 'login_required' => false],
     'login_check' => ['path' => 'auth/login_check.php', 'login_required' => false],
 
+    //Diger
+
 
 
 
